@@ -1,3 +1,10 @@
+# A-Star Graph Search Algorithm
+
+It is a path find algorthm that reads the provided 2D points/vertices, some of them connected by edges.
+It then finds the optimal(shortest) path from "start" point to the "end" points.
+
+Steps involved:
+
 1.samples points from free C-space
 2.makes nodes out of those nodes.
 3.writes the nodes into nodes1.csv file for sampling
